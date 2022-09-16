@@ -13,3 +13,7 @@ https://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/d
 Não esqueça de testar se o token fornecido esta correto como na menssagem abaixo:
 ![image](https://user-images.githubusercontent.com/58008758/190711013-b9aef808-9b27-4c08-b29a-23254d1003d6.png)
 
+Também testamos o Get Posicao, afim de saber se estava chamando as posições dos onibus.
+![image](https://user-images.githubusercontent.com/58008758/190712531-66b656b5-8de1-4903-bf63-245832cf52de.png)
+
+
