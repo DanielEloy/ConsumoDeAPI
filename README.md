@@ -16,4 +16,6 @@ Não esqueça de testar se o token fornecido esta correto como na menssagem abai
 Também testamos o Get Posicao, afim de saber se estava chamando as posições dos onibus.
 ![image](https://user-images.githubusercontent.com/58008758/190712531-66b656b5-8de1-4903-bf63-245832cf52de.png)
 
+Como a aplicação se comporta fazendo a autenticação e buscando as informações das posições dos onibus:
+![image](https://user-images.githubusercontent.com/58008758/190713725-e3cb513f-0958-4a22-93df-e58997d86311.png)
 
